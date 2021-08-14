@@ -162,16 +162,16 @@ animation: btn-move 1.5s linear infinite;
     transition: all 0.5s;
 }
 .bar1{
-    animation: progrees-move1 01s forwards;
+    animation: progrees-move1 01s 1s forwards;
 }
 .bar2{
-    animation: progrees-move2 01s forwards;
+    animation: progrees-move2 01s 1s forwards;
 }
 .bar3{
-    animation: progrees-move3 01s forwards;
+    animation: progrees-move3 01s 1s forwards;
 }
 .bar4{
-    animation: progrees-move4 01s forwards;
+    animation: progrees-move4 01s 1s forwards;
 }
 .progress-head .w-70{
     width: 35%;
