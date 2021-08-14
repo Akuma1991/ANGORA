@@ -1,0 +1,24 @@
+/* MEDIA CODE START */
+@media screen and (max-width:767.9px) {
+.container{
+
+max-width: none !important;
+}
+.row{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.main-screen .carousel-caption h1{
+    font-size: 2.5rem;
+}
+}
+@media screen and (max-width:991.9px) {
+    .navbar-nav{
+        background-color: white !important;
+        padding-left: 20px !important;
+}
+.nav-link{
+    color: black !important;
+}
+}
+/* MEDIA CODE END */

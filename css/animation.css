@@ -1,0 +1,35 @@
+/* ANIMATION CODE START */
+@keyframes progrees-move1 {
+    from{width: 0%;}
+    to{width: 80%;}
+}
+@keyframes progrees-move2 {
+    from{width: 0%;}
+    to{width: 95%;}
+}
+@keyframes progrees-move3 {
+    from{width: 0%;}
+    to{width: 85%;}
+}
+@keyframes progrees-move4 {
+    from{width: 0%;}
+    to{width: 70%;}
+}
+@keyframes btn-back-color {
+  from{
+      right: 100%;
+  }
+  to{
+      right: 0;
+  }
+}
+@keyframes btn-move {
+    0%{top: 4px;
+    opacity: 1;}
+    50%{top: 15px;
+        opacity: 0;
+    }
+    100%{top: 20px;
+    opacity: 0;}
+}
+/* ANIMATION CODE END */
