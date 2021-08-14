@@ -14,11 +14,12 @@ max-width: none !important;
 }
 @media screen and (max-width:991.9px) {
     .navbar-nav{
-        background-color: white !important;
+        /* background-color: white !important; */
         padding-left: 20px !important;
 }
 .nav-link{
     color: black !important;
 }
+
 }
 /* MEDIA CODE END */

@@ -22,6 +22,10 @@ a:hover{
     font-size: 0.8rem !important;
 
 }
+.offcanvas-top{
+    height: 290px;
+    top: 65px;
+}
 /* HEADER SECTION END */
 /* MAIN SCREEN SECTION START */
 .main-screen {
